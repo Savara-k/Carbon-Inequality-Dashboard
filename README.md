@@ -1,7 +1,7 @@
 
 # Carbon Inequality Dashboard — Global CO₂ Emissions & Climate Risk
 
-An interactive data visualization project exploring the intersection of carbon emissions, economic inequality, and climate vulnerability across the globe.
+An interactive data visualization group project exploring the intersection of carbon emissions, economic inequality, and climate vulnerability across the globe.
 
 ## Overview
 The Carbon Inequality Dashboard (Global-Pulse Atlas) is an interactive analytical suite designed to reveal the dual crisis of socio-economic inequality and environmental risk. By integrating global datasets on CO₂ emissions, GDP, inequality (GINI), population, and climate vulnerability, the dashboard highlights regions that contribute the least to climate change yet face the greatest risks.
